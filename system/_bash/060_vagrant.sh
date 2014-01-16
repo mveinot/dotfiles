@@ -7,5 +7,3 @@ if [ `uname` == 'Darwin' ]; then
         mkdir -p ${VAGRANT_VMWARE_CLONE_DIRECTORY}
     fi
 fi
-
-
