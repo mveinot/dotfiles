@@ -13,12 +13,18 @@
 # vendored gems
 .bundle/
 
+# vagrant working dir
+.vagrant
+
+.DS_Store
 .DS_Store?
 .Spotlight-V100
 .Trashes
+.localized
 ._*
 Thumbs.db
-ehthumbs.db
+*.log
 *.swp
 *.swo
+ehthumbs.db
 .netrwhist
